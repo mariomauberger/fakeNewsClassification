@@ -3,7 +3,7 @@
 **Group 16 || Advanced Information Retrieval [706.705] || Jan 2023**
 
 
-**A news recommender based on True/Fake classification through an IDF variation and Topic Modelling**
+## A news recommender based on True/Fake classification through an IDF variation and Topic Modelling
 
 **Dataset link:** https://zenodo.org/record/4561253/files/WELFake_Dataset.csv?download=1
 
