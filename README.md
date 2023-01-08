@@ -1,6 +1,6 @@
 # fakeNewsClassification
 
-<p align="center">**Group 16 || Advanced Information Retrieval [706.705] || Jan 2023**</p>
+####<p align="center">Group 16 || Advanced Information Retrieval [706.705] || Jan 2023</p>
 
 
 ## A news recommender based on True/Fake classification through an IDF variation and Topic Modelling
