@@ -7,6 +7,8 @@
 
 **Dataset link:** https://www.kaggle.com/code/pkbpkb0055/96-15-news-classification-with-bert-and-tf-idf/data
 
+**Link to pretrained models and csv files** https://drive.google.com/drive/folders/12fiY3I141lY6qWw3IwbbDzZyDxIKj8gm?usp=share_link
+
 
 **Aim:** The goal is to develop a model that uses one news article as a query and then suggests to the reader an additional five articles that are similar to it. The model then assesses if these articles are accurate or false and only suggests authentic news.
  
