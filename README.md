@@ -5,7 +5,7 @@
 
 ## A news recommender based on True/Fake classification through an IDF variation and Topic Modelling
 
-**Dataset link:** https://www.kaggle.com/code/pkbpkb0055/96-15-news-classification-with-bert-and-tf-idf/data
+**Dataset link:** https://www.kaggle.com/datasets/saurabhshahane/fake-news-classification/versions/35?resource=download
 
 **Link to pretrained models and csv files** https://drive.google.com/drive/folders/12fiY3I141lY6qWw3IwbbDzZyDxIKj8gm?usp=share_link
 
